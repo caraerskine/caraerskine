@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
  -->
 
+ <h1> I am a full-stack developer and a recent graduate of Flatiron School.  </h1>
+
 - 🔭 I’m currently working on adding features to my capstone project!
 - 🌱 I’m currently applying for jobs and learning Python
 - 👯 I’m looking to collaborate on an app
