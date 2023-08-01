@@ -1,4 +1,4 @@
-### Hi! I'm an artist and electrician turned coder. Coding combines all my engineering and artistic skills. I fell in love with coding when I realized I could build things!👋
+### I'm an artist and electrician turned coder. Coding combines all my engineering and artistic skills. I fell in love with coding when I realized I could build things! I am a full-stack developer and a recent graduate of Flatiron School! 👋
 
 <!--
 **caraerskine/caraerskine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
  -->
 
- <h4> I am a full-stack developer and a recent graduate of Flatiron School! </h4>
+ <h4> </h4>
 
 - 🔭 I’m currently working on adding features to my capstone project!
 - 🌱 I’m currently applying for jobs and learning Python
