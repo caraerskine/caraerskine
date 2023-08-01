@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm an artist, educator and electrician turned coder. Coding combines all my engineering and artistic skills. I fell in love with coding when I realized I could build things!👋
 
 <!--
 **caraerskine/caraerskine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
