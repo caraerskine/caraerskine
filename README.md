@@ -9,7 +9,7 @@ Here are some ideas to get you started:
  <h4> </h4>
 
 - 🔭 I’m currently working on adding features to my capstone project!
-- 🌱 I’m currently applying for jobs and learning Python
+- 🌱 I’m currently applying for jobs 
 - 👯 I’m looking to collaborate on an app
 - 🤔 I’m looking for help with anything you can teach me
 - 💬 Ask me about my tennis match booking app
